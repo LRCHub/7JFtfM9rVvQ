@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "セイ・イット・ライト",
+  "base_artist": "Nelly Furtado",
+  "createdAt": "2025-12-29T11:10:39.514296Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Say It Right",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/pl_01_Say_It_Right_Nelly_Furtado.txt"
+    }
+  ]
+}
